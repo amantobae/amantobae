@@ -1,7 +1,5 @@
 <div align="right">
 
-<a href="https://github.com/amantobae">github</a>
-
 </div>
 
 <br/>
