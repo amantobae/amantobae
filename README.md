@@ -1,11 +1,15 @@
 <div align="right">
 
+<a href="https://github.com/amantobae">github</a>
+
 </div>
 
 <br/>
 
 <div align="center">
 <img src="./ascii.svg" width="860" alt="ascii portrait"/>
+<br/>
+<img src="./terminal.svg" width="830" alt="terminal"/>
 </div>
 
 <br/>
