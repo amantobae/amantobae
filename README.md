@@ -1,6 +1,24 @@
 <div align="right">
+</div>
 
-</div> <br/> <table align="center"> <tr> <td align="center" valign="middle"> <br/> <img src="./ascii.svg" width="380" alt="ascii portrait"/> <br/><br/> </td> <td align="center" valign="middle"> <br/> <img src="./terminal.svg" width="680" alt="terminal"/> <br/><br/> </td> </tr> </table> <br/>
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+<br/>
+<img src="./ascii.svg" width="260" alt="ascii portrait"/>
+<br/><br/>
+</td>
+<td align="center" valign="middle">
+<br/>
+<img src="./terminal.svg" width="600" alt="terminal"/>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 # 💫 About Me:
 👋 Hi, I'm Amantai
