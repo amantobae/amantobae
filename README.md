@@ -1,23 +1,6 @@
 <div align="right">
 
-<a href="https://github.com/amantobae">github</a>
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" valign="middle">
-<img src="./ascii.svg" width="400" alt="ascii portrait"/>
-</td>
-<td align="center" valign="middle">
-<img src="./terminal.svg" width="520" alt="terminal"/>
-</td>
-</tr>
-</table>
-
-<br/>
+</div> <br/> <table align="center"> <tr> <td align="center" valign="middle"> <br/> <img src="./ascii.svg" width="380" alt="ascii portrait"/> <br/><br/> </td> <td align="center" valign="middle"> <br/> <img src="./terminal.svg" width="680" alt="terminal"/> <br/><br/> </td> </tr> </table> <br/>
 
 # 💫 About Me:
 👋 Hi, I'm Amantai
