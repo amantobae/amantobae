@@ -6,11 +6,16 @@
 
 <br/>
 
-<div align="center">
-<img src="./ascii.svg" width="860" alt="ascii portrait"/>
-<br/>
-<img src="./terminal.svg" width="830" alt="terminal"/>
-</div>
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+<img src="./ascii.svg" width="320" alt="ascii portrait"/>
+</td>
+<td align="center" valign="middle">
+<img src="./terminal.svg" width="520" alt="terminal"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
